@@ -1,0 +1,8 @@
+* CADR Maintenance
+  Документы, связанные с работой хакерспейса CADR.
+
+** Лицензия
+   Документы распространяются на условиях лицензии Creative Commons
+   Attribution-NonCommercial-ShareAlike 4.0 International, если не
+   указано иное.  Копию лицензии можно получить по ссылке:
+   <https://creativecommons.org/licenses/by-nc-sa/4.0>
