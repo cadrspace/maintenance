@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3158"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="emblem-crypto.svg">
+  <defs
+     id="defs3160">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient3798">
+      <stop
+         id="stop3800"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.5"
+         id="stop3808" />
+      <stop
+         id="stop3802"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3788">
+      <stop
+         id="stop3890"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop3892" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3792" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3152"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3785"
+       effect="spiro" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788"
+       id="linearGradient3806"
+       x1="-11.479692"
+       y1="37.168697"
+       x2="156.84186"
+       y2="37.168697"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="translate(71.293358,1.4933046)" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3152-3"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788-1"
+       id="linearGradient3806-9"
+       x1="-11.479692"
+       y1="37.168697"
+       x2="156.84186"
+       y2="37.168697"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="translate(74.66489,-2.9865892)" />
+    <linearGradient
+       id="linearGradient3788-1">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop3790-3" />
+      <stop
+         id="stop3888"
+         offset="0.5"
+         style="stop-color:#000000;stop-opacity:0.70588237;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3792-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788-1"
+       id="linearGradient3845"
+       x1="-11.479692"
+       y1="37.168697"
+       x2="156.84186"
+       y2="37.168697"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="translate(74.66489,-2.9865892)" />
+    <linearGradient
+       id="linearGradient3847">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3849" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3851" />
+    </linearGradient>
+    <linearGradient
+       y2="37.168697"
+       x2="156.84186"
+       y1="37.168697"
+       x1="-11.479692"
+       spreadMethod="pad"
+       gradientTransform="translate(-36.2241,1.4932974)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3855"
+       xlink:href="#linearGradient3788-1"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="424.38303"
+     inkscape:cy="571.88174"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4427"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3154"
+       units="mm"
+       empspacing="5"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originy="-2.7755576e-17mm"
+       originx="0mm"
+       spacingx="0.5mm"
+       spacingy="0.5mm" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="364.96063,556.29921"
+       id="guide3768" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="425.19685,559.84252"
+       id="guide3770" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="361.41732,559.84252"
+       id="guide3772" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="357.87402,499.6063"
+       id="guide3774" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="407.48031,575.7874"
+       id="guide3884" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="384.44882,561.61417"
+       id="guide3027" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="366.73228,561.61417"
+       id="guide3029" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="423.4252,579.33071"
+       id="guide3031" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="373.8189,574.01575"
+       id="guide3033" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="416.33858,566.92913"
+       id="guide3035" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="393.30709,598.8189"
+       id="guide3825" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="446.45669,591.73228"
+       id="guide3833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4427"
+       style="stroke:#606060;stroke-opacity:1;display:inline"
+       inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(1.1864034,0,0,1.1864034,320.54122,430.5124)">
+      <text
+         xml:space="preserve"
+         style="font-size:20.22920799px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3806);fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Sans"
+         x="57.961617"
+         y="44.798416"
+         id="text3784"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem-crypto.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan3786"
+           x="57.961617"
+           y="44.798416"
+           style="font-size:16.85767174px;fill:url(#linearGradient3806);fill-opacity:1;fill-rule:nonzero">1011001100</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#606060;stroke-width:3.31041145000000014;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+         id="rect2995"
+         width="51.016178"
+         height="51.299133"
+         x="37.240002"
+         y="52.081192"
+         rx="0"
+         ry="0"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem-crypto.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:none;stroke:#606060;stroke-width:3.37153459;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 69.749284,77.451671 18.987717,0"
+         id="path3783"
+         inkscape:path-effect="#path-effect3785"
+         inkscape:original-d="m 69.749284,77.451671 c 18.987717,0 18.987717,0 18.987717,0"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem-crypto.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#606060;stroke-width:5.34190893;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3781"
+         sodipodi:cx="85"
+         sodipodi:cy="92.362183"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         d="m 95,92.362183 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem-crypto.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="matrix(0.6311479,0,0,0.6311479,9.1005192,19.436561)" />
+      <path
+         style="fill:#ffffff;stroke:#606060;stroke-width:1.99999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 366.73228,490.74801 0,-31.88977 c 0,-0.73192 0.01,-1.47167 0.18779,-2.18165 0.17784,-0.70998 0.52803,-1.38241 1.04558,-1.89995 0.51754,-0.51754 1.18997,-0.86773 1.89995,-1.04557 0.70998,-0.17784 1.44973,-0.18779 2.18165,-0.18779 l 46.06299,0 c 0.73191,0 1.47167,0.01 2.18165,0.18779 0.70998,0.17784 1.38241,0.52803 1.89995,1.04557 0.51754,0.51754 0.86773,1.18997 1.04557,1.89995 0.17784,0.70998 0.18779,1.44974 0.18779,2.18165 l 0,31.88977 -7.08662,0 0,-24.80316 c 0,-0.73191 -0.01,-1.47167 -0.18779,-2.18165 -0.17784,-0.70998 -0.52803,-1.38241 -1.04557,-1.89995 -0.51754,-0.51754 -1.18996,-0.86773 -1.89994,-1.04557 -0.70998,-0.17784 -1.44974,-0.18779 -2.18165,-0.18779 l -31.88977,0 c -0.73191,0 -1.47167,0.01 -2.18165,0.18779 -0.70998,0.17784 -1.38241,0.52803 -1.89995,1.04557 -0.51754,0.51754 -0.86773,1.18997 -1.04557,1.89995 -0.17784,0.70998 -0.18779,1.44974 -0.18779,2.18165 l 0,24.80316 -7.08662,0"
+         id="path3827"
+         inkscape:path-effect="#path-effect3829"
+         inkscape:original-d="m 366.73228,490.74801 0,-31.88977 c -0.1534,-6.39088 -0.77359,-5.31496 5.31497,-5.31496 l 46.06299,0 c 6.39088,-0.15339 5.31496,-0.77359 5.31496,5.31496 l 0,31.88977 -7.08662,0 0,-24.80316 c 0.21532,-6.10849 0.14055,-5.31495 -5.31495,-5.31496 l -31.88977,0 c -6.39087,-0.15338 -5.31496,-0.77358 -5.31496,5.31496 l 0,24.80316 z"
+         inkscape:connector-curvature="0"
+         transform="matrix(0.84288363,0,0,0.84288363,-270.17895,-362.87185)"
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem-crypto.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.22920799px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3855);fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         x="-49.555817"
+         y="44.798416"
+         id="text3784-9"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem-crypto.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan3786-5"
+           x="-49.555817"
+           y="44.798416"
+           style="font-size:16.85767174px;fill:url(#linearGradient3855);fill-opacity:1">10100011001</tspan></text>
+    </g>
+  </g>
+</svg>
