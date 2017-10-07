@@ -13,7 +13,7 @@
    height="177.16534"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="card.svg"
    inkscape:export-filename="/home/avp/graph/cadr/card.png"
    inkscape:export-xdpi="300"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4243664"
-     inkscape:cx="120.10827"
-     inkscape:cy="130.11313"
+     inkscape:zoom="45.254834"
+     inkscape:cx="78.037877"
+     inkscape:cy="99.077365"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,9 +35,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1278"
-     inkscape:window-height="1003"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-y="16"
      inkscape:window-maximized="1"
      units="mm"
      width="90mm">
@@ -65,7 +65,7 @@
        orientation="0,1" />
     <sodipodi:guide
        id="guide3777"
-       position="85.03937,106.29921"
+       position="81.31728,101.29305"
        orientation="1,0" />
     <sodipodi:guide
        id="guide3779"
@@ -77,7 +77,7 @@
        orientation="0,1" />
     <sodipodi:guide
        id="guide3823"
-       position="145,975"
+       position="190.97773,41.45413"
        orientation="1,0" />
     <sodipodi:guide
        id="guide3829"
@@ -89,7 +89,7 @@
        orientation="1,0" />
     <sodipodi:guide
        id="guide3022"
-       position="77.952756,106.29921"
+       position="86.770823,184.77081"
        orientation="1,0" />
     <sodipodi:guide
        orientation="1,0"
@@ -150,6 +150,51 @@
        is_visible="true"
        id="path-effect3785"
        effect="spiro" />
+    <linearGradient
+       y2="180"
+       x2="100.008"
+       y1="40.008001"
+       x1="160.008"
+       id="b"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3936"
+         offset="0"
+         stop-color="#37aee2" />
+      <stop
+         id="stop3938"
+         offset="1"
+         stop-color="#1e96c8" />
+    </linearGradient>
+    <linearGradient
+       y2="174.70814"
+       x2="146.52715"
+       y1="131.02764"
+       x1="123.64119"
+       id="w"
+       gradientTransform="scale(1.0919081,0.91582798)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3941"
+         offset="0"
+         stop-color="#eff7fc" />
+      <stop
+         id="stop3943"
+         offset="1"
+         stop-color="#fff" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter4049">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.05 0 0.21 0.72 0.072 0.05 0 0.21 0.72 0.072 0.05 0 0 0 0 1 0 "
+         id="feColorMatrix4051" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3785-3"
+       is_visible="true" />
   </defs>
   <metadata
      id="metadata7">
@@ -159,7 +204,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,64 +222,21 @@
        height="175.38417"
        width="317.05292"
        id="rect2987"
-       style="fill:#eeeedd;fill-opacity:1;stroke:#000000;stroke-width:1.7651397;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.7651397;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        inkscape:export-filename="/home/avp/graph/cadr/card.png" />
-    <g
-       id="g4427"
-       style="stroke:#606060;stroke-opacity:1"
-       inkscape:export-filename="/home/avp/graph/cadr/card.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       transform="matrix(1.1864034,0,0,1.1864034,-33.03944,832.36856)">
-      <rect
-         style="fill:none;stroke:#606060;stroke-width:2.07067847;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect2995"
-         width="51.319202"
-         height="51.319202"
-         x="41.314907"
-         y="48.705994"
-         rx="0"
-         ry="0"
-         inkscape:export-filename="/home/avp/graph/cadr/rect2987.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#606060;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path3781"
-         sodipodi:cx="85"
-         sodipodi:cy="92.362183"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 95,92.362183 c 0,5.522847 -4.477153,9.999997 -10,9.999997 -5.522847,0 -10,-4.47715 -10,-9.999997 0,-5.522848 4.477153,-10 10,-10 5.522847,0 10,4.477152 10,10 z"
-         inkscape:export-filename="/home/avp/graph/cadr/rect2987.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300"
-         transform="matrix(0.6311479,0,0,0.6311479,13.078224,15.997835)" />
-      <path
-         style="fill:none;stroke:#606060;stroke-width:1.96659577;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 72.942188,74.365197 18.987717,0"
-         id="path3783"
-         inkscape:path-effect="#path-effect3785"
-         inkscape:original-d="m 72.942188,74.365197 c 18.987717,0 18.987717,0 18.987717,0"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/avp/graph/cadr/rect2987.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-    </g>
     <text
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
        inkscape:export-filename="/home/avp/graph/cadr/card.png"
        sodipodi:linespacing="125%"
        id="text3811"
-       y="927.86932"
-       x="83.799217"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="936.17749"
+       x="85.036644"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         y="927.86932"
-         x="83.799217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="936.17749"
+         x="85.036644"
          id="tspan3813"
          sodipodi:role="line">CADR</tspan></text>
     <text
@@ -252,7 +254,7 @@
          x="13.651423"
          id="tspan3819"
          sodipodi:role="line">Нижегородский</tspan><tspan
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:94.99999881%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-size:27.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:94.99999881%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          id="tspan3821"
          y="1002.4092"
          x="13.651423"
@@ -263,15 +265,15 @@
        inkscape:export-filename="/home/avp/graph/cadr/card.png"
        sodipodi:linespacing="125%"
        id="text3825"
-       y="1038.189"
-       x="14.173228"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="1038.1641"
+       x="42.140873"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         y="1038.189"
-         x="14.173228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="1038.1641"
+         x="42.140873"
          id="tspan3827"
-         sodipodi:role="line">hackerspaces.org/wiki/CADR</tspan></text>
+         sodipodi:role="line">t.me/cadr_hackerspace</tspan></text>
     <text
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -305,5 +307,84 @@
        inkscape:export-filename="/home/avp/graph/cadr/card.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <g
+       id="g3963"
+       transform="matrix(0.0956309,0,0,0.0956309,14.272882,1023.3428)"
+       style="filter:url(#filter4049)">
+      <circle
+         id="circle3945"
+         r="120"
+         cy="120"
+         cx="120"
+         style="fill:url(#b)" />
+      <path
+         id="path3947"
+         d="m 98,175 c -3.8876,0 -3.227,-1.4679 -4.5678,-5.1695 L 82,132.2059 170,80"
+         inkscape:connector-curvature="0"
+         style="fill:#c8daea" />
+      <path
+         id="path3949"
+         d="m 98,175 c 3,0 4.3255,-1.372 6,-3 l 16,-15.558 -19.958,-12.035"
+         inkscape:connector-curvature="0"
+         style="fill:#a9c9dd" />
+      <path
+         id="path3951"
+         d="m 100.04,144.41 48.36,35.729 c 5.5185,3.0449 9.5014,1.4684 10.876,-5.1235 l 19.685,-92.763 c 2.0154,-8.0802 -3.0801,-11.745 -8.3594,-9.3482 l -115.59,44.571 c -7.8901,3.1647 -7.8441,7.5666 -1.4382,9.528 l 29.663,9.2583 68.673,-43.325 c 3.2419,-1.9659 6.2173,-0.90899 3.7752,1.2584"
+         inkscape:connector-curvature="0"
+         style="fill:url(#w)" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4053"
+       width="63.059223"
+       height="62.92804"
+       x="16.232512"
+       y="891.31421" />
+    <g
+       id="layer1-7"
+       inkscape:label="Layer 1"
+       transform="matrix(1.0366031,0,0,1.0366031,-366.93609,385.30617)"
+       style="fill:none;stroke:#000000">
+      <g
+         transform="matrix(1.1864034,0,0,1.1864034,320.54122,430.5124)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
+         style="display:inline;stroke:#000000;stroke-opacity:1;fill:none"
+         id="g4427">
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
+           ry="0"
+           rx="0"
+           y="48.705994"
+           x="41.314907"
+           height="51.319202"
+           width="51.319202"
+           id="rect2995"
+           style="fill:none;stroke:#000000;stroke-width:3.37153459;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           transform="matrix(0.6311479,0,0,0.6311479,13.078224,15.997835)"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
+           id="path3781"
+           style="fill:none;stroke:#000000;stroke-width:5.34190893;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           cx="85"
+           cy="92.362183"
+           r="10" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 72.942188,74.365197 c 18.987717,0 18.987717,0 18.987717,0"
+           inkscape:path-effect="#path-effect3785-3"
+           id="path3783"
+           d="m 72.942188,74.365197 18.987717,0"
+           style="fill:none;stroke:#000000;stroke-width:3.37153459;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
   </g>
 </svg>
