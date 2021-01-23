@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="27.167562mm"
+   height="27.167562mm"
    id="svg3158"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="emblem.svg">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg">
   <defs
      id="defs3160">
     <inkscape:path-effect
@@ -29,17 +29,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="327.67902"
-     inkscape:cy="598.95299"
+     inkscape:zoom="5.6"
+     inkscape:cx="23.591791"
+     inkscape:cy="59.176625"
      inkscape:document-units="px"
      inkscape:current-layer="g4427"
      showgrid="false"
-     inkscape:window-width="1278"
-     inkscape:window-height="1003"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
-     inkscape:window-y="19"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     units="mm" />
   <metadata
      id="metadata3163">
     <rdf:RDF>
@@ -55,16 +60,17 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-348.65973,-467.39972)">
     <g
        id="g4427"
-       style="stroke:#606060;stroke-opacity:1;display:inline"
+       style="display:inline;stroke:#606060;stroke-opacity:1"
        inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        transform="matrix(1.1864034,0,0,1.1864034,320.54122,430.5124)">
       <rect
-         style="fill:none;stroke:#606060;stroke-width:3.37153451;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-linejoin:round"
+         style="fill:none;stroke:#606060;stroke-width:3.37153459;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2995"
          width="51.319202"
          height="51.319202"
@@ -75,22 +81,19 @@
          inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
          inkscape:export-xdpi="300"
          inkscape:export-ydpi="300" />
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#606060;stroke-width:5.34190877;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <circle
+         style="fill:none;stroke:#606060;stroke-width:5.34190893;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3781"
-         sodipodi:cx="85"
-         sodipodi:cy="92.362183"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 95,92.362183 c 0,5.522847 -4.477153,9.999997 -10,9.999997 -5.522847,0 -10,-4.47715 -10,-9.999997 0,-5.522848 4.477153,-10 10,-10 5.522847,0 10,4.477152 10,10 z"
          inkscape:export-filename="/home/avp/graph/cadr/emblem.png"
          inkscape:export-xdpi="300"
          inkscape:export-ydpi="300"
-         transform="matrix(0.6311479,0,0,0.6311479,13.078224,15.997835)" />
+         transform="matrix(0.6311479,0,0,0.6311479,13.078224,15.997835)"
+         cx="85"
+         cy="92.362183"
+         r="10" />
       <path
-         style="fill:none;stroke:#606060;stroke-width:3.37153451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 72.942188,74.365197 18.987717,0"
+         style="fill:none;stroke:#606060;stroke-width:3.37153459;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 72.942188,74.365197 H 91.929905"
          id="path3783"
          inkscape:path-effect="#path-effect3785"
          inkscape:original-d="m 72.942188,74.365197 c 18.987717,0 18.987717,0 18.987717,0"
